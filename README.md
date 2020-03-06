@@ -1,4 +1,4 @@
-#Nothin' But A Good Time
+# Nothin' But A Good Time
 
 A tool for
 visualizing and exploring arbitrary time 
@@ -9,14 +9,13 @@ what design choices would be good for a
 data-specific time series visualization.
 
 The final tool can be found 
-[here.](https://pslessard.github.io/final/home.html)
+[here.](https://petrakumi12.github.io/Nothin-But-A-Good-Time/)
 
-A demo video can be located [here.](https://drive.google.com/open?id=1CSdnNPC39k38fWJCafp9Tp49e72xnU7Os)
+![Image](resources/site-imgs/front-page.png)
 
-The interface should all be self-explanatory
-with the exception of the feature for 
-uploading your own data. The data must be
- csv file with the following format:
+## Uploading your own data
+ 
+The data must be a .csv file with the following format:
 ```
 id,time,value,event
 string,float,float,(1 or 0)
