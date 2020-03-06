@@ -57,7 +57,7 @@ html {
 
 .thumbnails {
     width: 100% !important;
-    height: 25vh !important;
+    max-height: 25vh !important;
 }
 
 .centered {
