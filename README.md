@@ -1,4 +1,4 @@
-# Nothin-But-A-Good-Time
+#Nothin' But A Good Time
 
 A tool for
 visualizing and exploring arbitrary time 
@@ -10,6 +10,7 @@ data-specific time series visualization.
 
 The final tool can be found 
 [here.](https://pslessard.github.io/final/home.html)
+
 A demo video can be located [here.](https://drive.google.com/open?id=1CSdnNPC39k38fWJCafp9Tp49e72xnU7Os)
 
 The interface should all be self-explanatory
@@ -28,12 +29,13 @@ tool. All of the coding was done by hand
 using some examples as reference points.
 
 We were inspired by the papers below to implement parts of our visualizations:
-[Fast Visualization for Large Time Series](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3986407/)
-[Dense Line Chart: Visualizing a Million Time Series](https://idl.cs.washington.edu/files/2018-DenseLines-arXiv.pdf)
-[Horizon Charts to Visualize Genomic Time Series](https://link.springer.com/article/10.1186/s12859-016-0891-2)
+
+- [Fast Visualization for Large Time Series](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3986407/)
+- [Dense Line Chart: Visualizing a Million Time Series](https://idl.cs.washington.edu/files/2018-DenseLines-arXiv.pdf)
+- [Horizon Charts to Visualize Genomic Time Series](https://link.springer.com/article/10.1186/s12859-016-0891-2)
 
 
-## Images of the site
+## Images
 
 ### Front Page
 ![Image](resources/site-imgs/front-page.png)
