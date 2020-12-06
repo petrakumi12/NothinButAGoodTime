@@ -9,7 +9,7 @@ what design choices would be good for a
 data-specific time series visualization.
 
 The final tool can be found 
-[here.](https://petrakumi12.github.io/Nothin-But-A-Good-Time/)
+[here.](https://petrakumi12.github.io/NothinButAGoodTime/)
 
 ![Image](resources/site-imgs/front-page.png)
 
